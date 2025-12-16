@@ -57,6 +57,9 @@ The second part of the project is an interactive dashboard that allows users to 
 - Dash
 - Plotly
 - Pandas
+  
+![Recession Statistics](RecessionReportgraphs.png)
+![Yearly Statistics](YearlyReportgraphs.png)
 
 ---
 
