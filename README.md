@@ -1,7 +1,5 @@
 # Automobile Sales Analysis and Dashboard
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jFOjL5jhkXNrfIPCL0dkguYfv0q4qsO4?usp=sharing)
-
 This repository contains an end-to-end data analysis and visualization project focused on historical automobile sales data.  
 The project analyzes the impact of recession periods on automobile sales and advertising expenditure and presents insights through an interactive dashboard built with Plotly and Dash.
 
